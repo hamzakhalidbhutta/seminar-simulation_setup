@@ -1,0 +1,37 @@
+# ==========================================
+# HAIMM Gateway Project Git Ignore Rules
+# ==========================================
+
+# Ignore Deep Learning Model Weights & Checkpoints (Crucial)
+# This prevents your 268MB+ DistilBERT weights from breaking GitHub upload limits
+haimm_gateway_model/
+**/haimm_gateway_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Ignore Data Artifacts (Uploaded to Google Drive instead)
+*.csv
+source_code/datasets/*.csv
+source_code/models/*.csv
+
+# Python Environment & Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments (If created locally)
+venv/
+.venv/
+env/
+ENV/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Log.txt
