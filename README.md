@@ -1,3 +1,27 @@
+# Table of Contents
+
+- [Neural-Edge Security Gateway: HAIMM Architecture Prototype](#neural-edge-security-gateway-haimm-architecture-prototype)
+- [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Directory Structure](#directory-structure)
+  - [Running the Project](#running-the-project)
+    - [Step 1: Install Dependencies](#step-1-install-dependencies)
+    - [Step 2: Generate the Training Dataset](#step-2-generate-the-training-dataset)
+    - [Step 3: Train the DistilBERT Model](#step-3-train-the-distilbert-model)
+    - [Step 4: Observe Transformer Tokenization](#step-4-observe-transformer-tokenization)
+    - [Step 5: Start the AI Gateway](#step-5-start-the-ai-gateway)
+    - [Step 6: Generate Test Traffic](#step-6-generate-test-traffic)
+  - [Expected Results](#expected-results)
+  - [Project Workflow](#project-workflow)
+  - [Notes](#notes)
+  - [Module Breakdown](#module-breakdown)
+    - [main.py](#mainpy)
+    - [Dataset Generator](#dataset-generator)
+    - [Model Training](#model-training)
+    - [Sniffer Modules](#sniffer-modules)
+  - [Research Contributions](#research-contributions)
+  - [Author](#author)
+
 # Neural-Edge Security Gateway: HAIMM Architecture Prototype
 
 ## Project Overview
