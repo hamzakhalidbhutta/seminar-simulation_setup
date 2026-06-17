@@ -1,3 +1,6 @@
+[![Sniffer in action]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/simulation.mp4 "Sniffer in action")    // Video Link
 # Table of Contents
 
 - [Neural-Edge Security Gateway: HAIMM Architecture Prototype](#neural-edge-security-gateway-haimm-architecture-prototype)
