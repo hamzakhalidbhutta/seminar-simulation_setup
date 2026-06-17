@@ -1,10 +1,4 @@
-<video src="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/simulation.mp4" 
-       poster="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/thumbnail.png" 
-       controls="controls" 
-       muted="muted" 
-       class="d-block rounded-bottom-2 border-top width-fit" 
-       style="max-height:640px; min-height: 200px;">
-</video>
+<video src="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/simulation.mp4" controls></video>
 
 # Table of Contents
 
