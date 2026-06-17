@@ -1,4 +1,11 @@
-[![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/thumbnail.png)](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/simulation.mp4 "Sniffer in action")
+[![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/thumbnail.png)](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/simulation.mp4 "Sniffer in action")
+<video src="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/simulation.mp4" 
+       poster="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/thumbnail.png" 
+       controls="controls" 
+       muted="muted" 
+       class="d-block rounded-bottom-2 border-top width-fit" 
+       style="max-height:640px; min-height: 200px;">
+</video>
 
 # Table of Contents
 
