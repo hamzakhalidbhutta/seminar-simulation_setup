@@ -1,4 +1,4 @@
-[![Sniffer in action](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/simulation.mp4 "Sniffer in action")
+[![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/thumbnail.png)](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/simulation.mp4 "Sniffer in action")
 
 # Table of Contents
 
