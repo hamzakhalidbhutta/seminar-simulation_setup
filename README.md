@@ -1,4 +1,4 @@
-[![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/thumbnail.png)]( "Sniffer in action")
+![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/thumbnail.png)
 
 # Table of Contents
 
