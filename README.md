@@ -1,4 +1,4 @@
-<video src="https://github.com/hamzakhalidbhutta/seminar-simulation_setup/raw/main/simulation/simulation.mp4" controls></video>
+[![Sniffer in action](https://github.com/hamzakhalidbhutta/seminar-simulation_setup/blob/main/simulation/thumbnail.png)]( "Sniffer in action")
 
 # Table of Contents
 
